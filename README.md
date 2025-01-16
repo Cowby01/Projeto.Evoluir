@@ -41,16 +41,36 @@ O site será desenvolvido utilizando duas abordagens:
 
 ### 3.2 Wireframes ou mockups
 - **Home Page:** Exibirá informações sobre consórcio, princípios e valores da empresa, além de contatos.
+   <div align="center">
+<img src="https://github.com/user-attachments/assets/bf14a622-3b2f-46a5-9cb2-de7ec7c2f1d4" width="0px" />
+</div> 
+  <div align="center">
+<img src="https://github.com/user-attachments/assets/bf14a622-3b2f-46a5-9cb2-de7ec7c2f1d4" width="500px" />
+</div>
+  <div align="center">
+<img src="https://github.com/user-attachments/assets/4ea82332-437d-4c86-b89b-b6131708e42f" width="500px" />
+</div>
+  <div align="center">
+<img src="https://github.com/user-attachments/assets/c98e8e77-64e1-4933-bd9d-1202a639da85" width="500px" />
+</div>
   
-  ![Tela Inicial 1](./image1.png)
-  
-  ![Tela Inicial 2](./image2.png)
   
 - **Página Sobre:** Informações detalhadas sobre a empresa e funcionários.
-  
-  ![Página Sobre](./image3.png)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8ff5ec61-be50-4302-b6a0-06661f0cff90" width="0px" />
+</div>
+  <div align="center">
+<img src="https://github.com/user-attachments/assets/8ff5ec61-be50-4302-b6a0-06661f0cff90" width="500px" />
+</div>
+  <div align="center">
+<img src="https://github.com/user-attachments/assets/b16fc36b-17a1-467f-b6dd-ff2e77fc35ae" width="500px" />
+</div>
+
   
 - **Perguntas Frequentes:** Detalhamento dos serviços oferecidos.
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d6ffb488-0501-4475-b3c0-7e73d2e4828d" width="500px" />
+</div>
 - **Parcerias:** Informações sobre como empresas podem entrar no holding Evoluir (projeto futuro).
 
 ---
