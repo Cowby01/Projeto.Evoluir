@@ -154,3 +154,4 @@ O site foi desenvolvido para **melhorar a presença online** da empresa e facili
 📈 No futuro, o site poderá contar com **integração de e-commerce** para aquisição de consórcio próprio.
 
 🚀 **Projeto em andamento!**
+##Em Breve novas alterações
